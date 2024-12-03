@@ -1,0 +1,4 @@
+[submodule "tiny_cmdline"]
+	path = tiny_cmdline
+	url = https://github.com/caibingcheng/tiny_cmdline.git
+	branch = master
